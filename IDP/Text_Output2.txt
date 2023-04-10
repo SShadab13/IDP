@@ -1,0 +1,268 @@
+thou/pL
+
+0.2-1.0
+
+036
+
+
+MONOGYTE COUNT
+
+
+ABSOLUTE
+
+thou/pL
+
+1.0 -3.0
+
+
+1.38
+
+COUNT
+
+
+ABSOLUTE
+
+thou/pL
+
+2.0 - 7.0
+
+4.14
+
+NEUTROPHIL COUNT
+
+ABSOLUTE
+
+
+0-2
+
+
+00
+
+BASOPHILS
+
+
+1-6
+
+02
+
+EOSINOPHILS
+
+
+10
+
+
+06
+
+MONOCYTES
+
+
+20
+
+23
+
+LYMPHOCYTES
+
+
+
+69
+
+NEUTROPHILS
+
+WBC DIFFERENTIAL COUNT
+
+METHOD : ELECTRONIC IMPEDANCE
+
+
+-10.9
+
+6.8
+
+9.9
+
+PLATELET VOLUME (MPV)
+
+MEAN
+
+20.2
+
+MENTZER INDEX
+
+METHOD : ELECTRONIC IMPEDANCE
+
+
+11.6 - 14.0
+
+13.4
+
+RED CELL DISTRIBUTION WIDTH (RDW)
+
+g/dL
+
+31.5 -34.5
+
+
+
+35.4
+
+MEAN CORPUSCULAR HEMOGLOBIN
+CONGENTRATION(MGHC
+METHOD : ELECTRON
+
+
+
+
+
+METHOD : ELECTRONIC IMPEDANCE
+
+
+27.0 - 32.0
+
+
+
+32.2
+
+HEMOGLOBIN (MCH)
+
+CORPUSCULAR
+
+MEAN
+
+METHOD : ELECTRONIC IMPEDANCE
+
+
+83.0 - 101.0
+
+91.1
+
+CORPUSCULAR VOLUME (MCV)
+
+MEAN
+
+ETHOD : CALCULATED PARAMETER
+
+
+40.0 - 50.0
+
+41.1
+
+HEMATOCRIT (PCV)
+
+RBC AND PLATELET INDICES
+
+METHOD : ELECTRONIC IMPEDANCE
+
+thou/pL
+
+150 - 410
+
+336
+
+PLATELET COUNT
+
+METHOD : IMPEDENCE DETECTION METHOD
+
+thou/pL
+
+10
+
+
+6.0
+
+BLOOD CELL (WBG@) COUNT
+
+
+
+METHOD : IMPEDENCE DETECTION METHOD
+
+mil/pLl
+
+4.5-5.5
+
+4.51
+
+CELL (RBG) COUNT
+
+
+
+RED
+
+METHOD : SPECTROPHOTOMETRY
+
+g/dL
+
+13.0 - 17.0
+
+14.6
+
+(HB)
+
+HEMOGLOBIN
+
+BLOOD COUNTS, EDTA WHOLE BLOOD
+
+ee em 8 me + me + am + am + am 6 am + am + am + am + Om + OD + Dt Dt Ome OD FO De De OE + Oe OS OD DF Ee ee De ES Ee Ee ES
+
+HAEMATOLOGY
+
+
+
+
+HAEMATOLOGY :
+
+i eee eee ee ee ee ee eee ee ee Oe Oe er Oe oe Oe Oe Oe oe oe Oe Oe oe 2 ee 2 ee 2 oe oe 2 oe oo oO OD 0 OD 6 ED 0 OD 6 EP 0 ED 0 OD 0 Gn 6 GD 8 On 0 On 0 2 8 en oe oes
+
+HAEMATOLOGY
+
+est Report Status Final Results Biological Reference Interval
+
+Test Report Status Final Results Biological Reference Interval
+
+Units
+
+Biological Reference Interval
+
+Results
+
+CLIENT PATIENT ID :
+
+DR. UMAPATICHEGDE
+
+
+REFERRING DOCTOR :
+
+
+TED :
+
+RECEIVED :
+
+DRAWN
+
+12:30
+
+29/10/2022 |
+
+10:20
+
+29/10/2022 |
+
+29/10/2022 10:11
+
+ACCESSION NO :
+
+
+SEX :
+
+29 Years
+
+AGE
+
+0127VJ004971
+
+JITEM140493127
+
+PATIENT ID :
+
+JITENDRA KUMAR
+
+PATIENT NAME :
+
